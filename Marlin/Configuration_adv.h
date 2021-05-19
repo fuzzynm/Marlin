@@ -2226,7 +2226,6 @@
   #if ENABLED(MIXING_EXTRUDER)
     //#define RETRACT_SYNC_MIXING           // Retract and restore all mixing steppers simultaneously
   #endif
-#endif
 
 /**
  * Universal tool change settings.
